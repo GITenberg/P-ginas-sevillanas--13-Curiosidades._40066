@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '37973'
     url: http://www.gutenberg.org/2009/agents/37973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40066#P-ginas-sevillanas--13-Curiosidades.
 gutenberg_issued: '2012-06-23'
 gutenberg_type: Text
 identifiers:
